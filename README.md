@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madmaxx10r
-- 👀 I’m interested in Cyber Security and interesting in kali linux and different ways to pen test. (Obviously Ethical)
+- 👀 I’m interested in Cyber Security and furthermore in kali linux and different ways to pen test. (Obviously Ethical)
 - 🌱 I’m currently learning Kali linux on Oracle VM and starting out with wireless network attacks.
 - 💞️ I’m looking to collaborate on other ways to test my own network, appriciate the recommendations. Thanks!
 - 📫 How to reach me ...You dont!
